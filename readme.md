@@ -1,6 +1,6 @@
 ## The  implementation of regressional analysis as an application of supervised machine learning  in the prediction of prices of laptop computers based on specifications.
 
-### * 1. The first step in this project is the analysis of the project.
+### * 1. The first step in this project is the analysis of the project requirements.
 
 * The first step in this is data gathering and how do we do this. We simply perform  a method of computation called web scraping i.e we try to get various prices of pc and their diverse specifications from the web through libraries like beautifulsoup4 and selenium.
 * The next step on this is implementing a concept called data processing and organization. Due to large data being scraped from the web, there is high need  we perform data processing on the scraped data for filtering out or replacing incomplete data or non  important data. We will mainly implement this in python pandas library, a well known library for analysis.
